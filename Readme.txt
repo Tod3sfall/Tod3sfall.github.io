@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Developer Portfolio website. 
 
 Template Name: Personal
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
